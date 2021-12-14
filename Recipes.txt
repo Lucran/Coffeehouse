@@ -1,0 +1,61 @@
+Americano 1) Measure out the beans for a double shot.
+Americano 2) Grind the beans to espresso level.
+Americano 3) Make the espresso.
+Americano 4) Boil 6 ounces of water in a kettle.
+Americano 5) Mix in 1 part espresso to 2 parts water.
+Cappuccino 1) Measure out the beans for a triple shot.
+Cappuccino 2) Grind the beans to espresso level.
+Cappuccino 3) Make the espresso.
+Cappuccino 4) Steam 6 ounces of milk. Froth the steamed milk until it is very foamy.
+Cappuccino 5) Pour the frothed milk directly onto the espresso. It should be 1/3 milk, 1/3 foam, and 1/3 espresso.
+Espresso 1) Measure out a double shot of espresso beans (about 18 grams)
+Espresso 2) Pack and tamper the coffee grounds into an espresso filter, press down on the filter firmly.
+Espresso 3) Place the filter into an espresso machine and pull the shot.
+Flat-White 1) Measure out and make 1 shot of espresso.
+Flat-White 2) Steam 2 shots (about 4 ounces) of milk latte-style.
+Flat-White 3) Slowly pour the steamed milk over the espresso shots, lowering the pitcher as you do.
+Flat-White 4) When the milk is poured, you can use a toothpick and try some latte-art!
+Latte 1) Measure out and make a double shot of espresso.
+Latte 2) Steam 6 ounces of milk, Froth the steamed milk very little.
+Latte 3) Pour the steamed milk over the espresso shots. It should be 2/3 milk, 1/3 espresso, and a little foam.
+Macchiato 1) Measure and make 3 shots of espresso.
+Macchiato 2) Steam 2 shots (about 4 ounces) of milk and froth the milk until it is almost entirely foam.
+Macchiato 3) Pour the espresso shots directly into the center of the foam, creating a 'mark' with the coffee.
+Mocha 1) Measure and make a double shot of espresso.
+Mocha 2) Steam 6 ounces of milk, latte-style.
+Mocha 3) Add 2 ounces of chocolate syrup to the steamed milk and froth.
+Mocha 4) Pour the steamed milk onto the espresso shots and stir.
+Chai 1) Boil 6 ounces of water in a kettle.
+Chai 2) Pour the boiling water over 2 Chai teabags in a mug.
+Chai 3) Stoke the tea for 3-5 minutes.
+Earl-Grey 1) Boil 6 ounces of water in a kettle.
+Earl-Grey 2) Pour the boiling water over 2 Earl-Grey teabags in a mug.
+Earl-Grey 3) Stoke the tea for 3-5 minutes.
+English-Breakfast 1) Boil 6 ounces of water in a kettle.
+English-Breakfast 2) Pour the boiling water over 2 English Breakfast teabags in a mug.
+English-Breakfast 3) Stoke the tea for 3-5 minutes.
+Matcha 1) Boil 6 ounces of water in a kettle.
+Matcha 2) Pour the boiling water over 2 ounces of Matcha powder in a mug.
+Matcha 3) stir the powder with the water thoroughly.
+Mint 1) Boil 6 ounces of water in a kettle.
+Mint 2) Pour the boiling water over 2 Mint teabags in a mug.
+Mint 3) Stoke the tea for 3-5 minutes.
+Green 1) Boil 6 ounces of water in a kettle.
+Green 2) Pour the boiling water over 2 green teabags in a mug.
+Green 3) Stoke the tea for 3-5 minutes.
+Chamomile 1) Boil 6 ounces of water in a kettle.
+Chamomile 2) Pour the boiling water over 2 chamomile teabags in a mug.
+Chamomile 3) Stoke the tea for 3-5 minutes.
+Chai-Latte 1) boil 3 ounces of water in a kettle.
+Chai-Latte 2) Pour the boiling water over 2 Chai teabags in a mug.
+Chai-Latte 3) Stoke the tea for 3-5 minutes.
+Chamomile-Latte 4) Steam 6 ounces of milk latte-style.
+Chamomile-latte 5) pour the milk over the tea and mix.
+Chamomile-Latte 1) boil 3 ounces of water in a kettle.
+Chamomile-Latte 2) Pour the boiling water over 2 Chai teabags in a mug.
+Chamomile-Latte 3) Stoke the tea for 3-5 minutes.
+Chamomile-Latte 4) Steam 6 ounces of milk latte-style.
+Chamomile-latte 5) pour the milk over the tea and mix.
+Matcha 1) Steam 6 ounces of milk latte-style.
+Matcha 2) Pour the milk over 2 ounces of Matcha powder in a mug.
+Matcha 3) stir the powder with the milk thoroughly.
